@@ -1,1 +1,5 @@
+
 This is the first file. More conflict is comming
+ Added more conflicts.
+ Second feature branch needs to merge with more conflicts.
+
