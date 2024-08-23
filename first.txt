@@ -1,1 +1,4 @@
- Added more conflicts
+ Added more conflicts.
+
+
+ Second feature branch needs to merge with more conflicts.
